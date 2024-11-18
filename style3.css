@@ -1,0 +1,15 @@
+div{
+    align-items: center;
+    padding: 1.1rem;
+}
+
+div h5{
+    text-align: center;
+}
+
+.card-img-top{
+    position: absolute;
+    Top: 50%;
+    Left:50%;
+    transform: translate(-50%, -50%)
+}
